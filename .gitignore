@@ -1,0 +1,42 @@
+# Config files
+config.php
+
+# SQL files (for security)
+*.sql
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error_log
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test files
+test/
+tests/
+*.test.php
+
+# Documentation build files
+docs/_build/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
